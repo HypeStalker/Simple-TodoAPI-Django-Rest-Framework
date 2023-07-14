@@ -1,2 +1,1 @@
-# Simple-TodoAPI-Django-Rest-Framework
-## TodoApi with Token JWT Authorization
+#TodoApi with Token JWT Authorization Django Rest Framework
